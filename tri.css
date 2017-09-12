@@ -1,0 +1,29 @@
+body{
+  background:url("https://i.pinimg.com/originals/e2/3c/10/e23c10c0dee11fac2bb11c5e856f3926.jpg");
+  font-family:lobster;
+  
+}
+.nav-pills{
+  font-size:2.0em;
+  background-color:rgb(255, 255, 255);
+  margin-bottom: 5%;
+  margin-right:-15px;
+  margin-left:-15px
+  
+ 
+}
+.text-header {
+  padding:0;
+  margin: 0px;
+  font-size:5.0em;
+   color: white;
+   font-weight:50%px;
+}
+
+
+.text-time {
+   color: blue;
+   font-size: 4.5rem;
+   font-weight:50%px;
+}
+
